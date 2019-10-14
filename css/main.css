@@ -28,14 +28,14 @@ body {
 
 header {
   height: 700px;
-  background: url('../img/flowers.jpg');
+  background: url('../img/hero.png');
   background-size: cover;
 }
 
 header h1 {
   font-family: 'Lora', serif;
   font-size: 30px;
-  color: #bc947e;
+  color: #BBC085;
   padding: 65px 0 65px 25px;
 }
 
@@ -49,9 +49,8 @@ nav ul li {
 nav ul li a {
   text-transform: uppercase;
   text-decoration: none;
-  font-size: 22px;
-  font-weight: bold;
-  color:#bc947e;
+  font-size: 18px;
+  color:#828282;
   padding-left: 80px;
 }
 
@@ -61,12 +60,12 @@ header h2 {
   font-family: 'Lora', serif;
   font-size: 72px;
   line-height: 80px;
-  color: #bc947e;
+  color: #9b9b9b;
   padding: 0 0 20px 25px;
 }
 
 header h2 span {
-  color: #bc947e;
+  color: #2b2b2b;
 }
 
 
@@ -94,7 +93,7 @@ header h2 span {
 /*** WORK ***/
 
 #work {
-  background: #bc947e;
+  background: #f9ceb7;
   text-align: center;
 }
 
@@ -111,7 +110,7 @@ header h2 span {
   line-height: 32px;
   width: 190px;
   margin: 0 auto;
-  color: #ffffff;
+  color: #000000;
 }
 
 #work p {
@@ -119,7 +118,7 @@ header h2 span {
   font-size: 18px;
   line-height: 30px;
   padding: 0 50px;
-  color: #ffffff;
+  color: #000000;
 }
 
 /*** CONTACT ***/
